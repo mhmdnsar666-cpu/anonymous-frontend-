@@ -1,4 +1,4 @@
-const API_BASE_URL = '/api';
+const API_BASE_URL = 'https://anonymous-chat.onrender.com/api';
 
 export interface Message {
   id: number;
